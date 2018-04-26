@@ -1,2 +1,2 @@
 # vueStudy
-vue demo and test project
+vue demo and practice  project
