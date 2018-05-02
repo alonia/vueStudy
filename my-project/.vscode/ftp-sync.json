@@ -1,0 +1,24 @@
+{
+    "remotePath": "/Volumes/Working/apache-tomcat-6.0.26/wysWx/ROOT/",
+    "host": "192.168.1.2",
+    "username": "ectrip",
+    "password": "ectrip",
+    "port": 21,
+    "secure": false,
+    "protocol": "sftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "uploadOnSave": false,
+        "extensionsToInclude": [],
+        "path": ""
+    }
+}
