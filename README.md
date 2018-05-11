@@ -1,4 +1,4 @@
 # vueStudy
 vue demo and practice  project
-start study
+start
 
